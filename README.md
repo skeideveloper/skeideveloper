@@ -38,9 +38,9 @@ server, con codice pulito, performance elevate e SEO tecnica integrata.
 - Graphic design e identità visiva per il web
 - Ottimizzazione SEO tecnica e posizionamento
 
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/0A66C2/skeideveloper" alt="Contributi GitHub">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=skeideveloper&show_icons=true&hide_border=true&theme=transparent" height="160">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=skeideveloper&layout=compact&hide_border=true&theme=transparent" height="160">
 </p>
 
 ## 📫 Contatti
