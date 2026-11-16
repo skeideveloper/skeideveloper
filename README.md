@@ -40,8 +40,7 @@ server, con codice pulito, performance elevate e SEO tecnica integrata.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skeideveloper&show_icons=true&hide_border=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeideveloper&layout=compact&hide_border=true" height="160">
+  <img src="https://ghchart.rshah.org/0A66C2/skeideveloper" alt="Contributi GitHub">
 </p>
 
 ## 📫 Contatti
